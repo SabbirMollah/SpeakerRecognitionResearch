@@ -1,6 +1,7 @@
 
 data/*
 notebooks/EvaluateAsrDatasetOnRawNet/out/*
+notebooks/BdAsrOnRawNet2/out/*
 
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,python,jupyternotebooks
