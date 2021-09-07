@@ -1,8 +1,10 @@
 
 data/*
 notebooks/EvaluateAsrDatasetOnRawNet/out/*
-notebooks/BdAsrOnRawNet2/out/*
-
+notebooks/TrainBdAsrOnRawNet2/out/*
+!notebooks/TrainBdAsrOnRawNet2/out/loss_eer.txt
+notebooks/TrainLargeAsrOnRawNet2/out/*
+!notebooks/TrainLargeAsrOnRawNet2/out/loss_eer.txt
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,python,jupyternotebooks
 
