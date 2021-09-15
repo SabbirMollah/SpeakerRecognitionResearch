@@ -7,6 +7,9 @@ notebooks/TrainLargeAsrOnRawNet2/out/*
 notebooks/TrainLargeAsrOnRawNet2/out/models/*
 !notebooks/TrainLargeAsrOnRawNet2/out/loss_eer.txt
 notebooks/EvaluateTimitRawNetLargeAsr/out/*
+notebooks/DomainAdaptationAsrVsBangla/out/*
+notebooks/DomainAdaptationAsrVsBangla/models/*
+!notebooks/DomainAdaptationAsrVsBangla/out/loss_eer.txt
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,python,jupyternotebooks
 
