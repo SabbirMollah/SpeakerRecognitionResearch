@@ -1,7 +1,11 @@
-
+# out files
 data/*
 notebooks/EvaluateAsrDatasetOnRawNet/out/*
 notebooks/BdAsrOnRawNet2/out/*
+notebooks/TrainTimitOnRawNet2/out/*
+
+#models
+*.pth
 
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,python,jupyternotebooks
